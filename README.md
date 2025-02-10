@@ -14,19 +14,19 @@ Modern browser fingerprinting library for visitor identification. Generates uniq
 
 ## Installation
 
-`npm install device-fingerprint-ts`
+`npm install browser-imprint`
 
 #### or
 
-`yarn add device-fingerprint-ts`
+`yarn add browser-imprint`
 
 ## Usage
 
 ```javascript
-import { generateFingerprint } from "device-fingerprint";
+import { getDeviceFingerprint } from "browser-imprint";
 
 // Generate a device fingerprint
-const fingerprint = await generateFingerprint();
+const fingerprint = await getDeviceFingerprint();
 console.log(fingerprint); // Returns a unique identifier for the device
 ```
 
