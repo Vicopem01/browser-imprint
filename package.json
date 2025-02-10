@@ -1,6 +1,6 @@
 {
   "name": "browser-imprint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modern browser fingerprinting library for visitor identification. Generates unique device IDs using canvas, WebGL, audio and hardware signals. Zero dependencies, TypeScript-first, cross-browser compatible.",
   "author": "Victor",
   "license": "MIT",
