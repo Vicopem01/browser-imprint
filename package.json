@@ -9,12 +9,12 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vicopem01/imprint.js"
+    "url": "https://github.com/Vicopem01/browser-imprint"
   },
   "bugs": {
-    "url": "https://github.com/Vicopem01/imprint.js/issues"
+    "url": "https://github.com/Vicopem01/browser-imprint/issues"
   },
-  "homepage": "https://github.com/Vicopem01/imprint.js#readme",
+  "homepage": "https://github.com/Vicopem01/browser-imprint#readme",
   "scripts": {
     "build": "rollup -c",
     "test": "jest",
